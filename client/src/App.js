@@ -168,7 +168,6 @@ function App() {
               height: 300,
               backgroundColor: 'lightgray',
               borderRadius: 10,
-              position: 'absolute',
               zIndex: 2,
               alignItems: 'center',
               flexDirection: 'column'
